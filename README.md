@@ -2,12 +2,12 @@
 
 https://jobs.reachplc.com/job-description/id/007414
 
-#### Key Responsibilities
+### Key Responsibilities
 
   Productionising, maintaining and monitoring machine learning pipelines and models.
   Developing new and existing machine learning tools to assist data scientists and engineers to develop models at speed.
   
-The Ideal Candidate
+### The Ideal Candidate
 
   Experienced programming in Python and SQL.
   
@@ -29,7 +29,7 @@ The Ideal Candidate
   
   A degree or higher level academic background in a scientific or engineering subject.
   
-Technical - Nice To Haves:
+### Technical - Nice To Haves:
 
   Some experience programming in PySpark, Javascript and HTML.
  
@@ -37,7 +37,7 @@ Technical - Nice To Haves:
   
   Some experience of Docker.
   
-Non-Technical:
+### Non-Technical:
 
   Previously worked in a fast-paced iterative environment.
   
