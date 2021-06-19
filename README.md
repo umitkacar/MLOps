@@ -14,3 +14,5 @@ Challenges in Deploying Machine Learning: a Survey of Case Studies
 
 http://arxiv.org/abs/2011.09926
 
+https://github.com/https-deeplearning-ai/MLEP-public
+
