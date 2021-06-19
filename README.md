@@ -9,3 +9,8 @@ https://towardsdatascience.com/machine-learning-in-production-why-you-should-car
 https://www.youtube.com/watch?v=06-AZXmwHjo
 
 https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/
+
+Challenges in Deploying Machine Learning: a Survey of Case Studies
+
+http://arxiv.org/abs/2011.09926
+
