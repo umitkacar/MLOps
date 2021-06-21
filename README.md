@@ -18,7 +18,10 @@ https://github.com/https-deeplearning-ai/MLEP-public
 
 
 ☑︎ Comet.ML
-☑︎ MLFlow.
+
+☑︎ MLFlow
+
 ☑︎ Neptune
+
 ☑︎ Tensorboard
 
