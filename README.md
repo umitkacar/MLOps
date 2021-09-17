@@ -1,5 +1,7 @@
 # MLOps
 
+https://github.com/graviraja/MLOps-Basics
+
 https://mlops.neptune.ai/
 
 https://jobs.reachplc.com/job-description/id/007414
