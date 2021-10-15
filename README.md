@@ -1,8 +1,26 @@
 # MLOps
 
-https://github.com/graviraja/MLOps-Basics
+1 - Annotation Tools
+
+☑︎ https://labelstud.io/
+
+☑︎ https://roboflow.com/
+
+☑︎ https://github.com/wkentaro/labelme
+
+☑︎ https://github.com/SkalskiP/make-sense
+
+2- GUI
+
+☑︎ https://github.com/gradio-app/gradio
+
+☑︎ https://github.com/streamlit/streamlit
+
+
 
 https://mlops.neptune.ai/
+
+https://github.com/graviraja/MLOps-Basics
 
 https://jobs.reachplc.com/job-description/id/007414
 
