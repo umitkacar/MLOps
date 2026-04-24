@@ -301,6 +301,7 @@ run["metrics/acc"] = 0.95
 | **[KServe](https://github.com/kserve/kserve)** ⭐ 3.5k+ | Serverless ML | 🌟🌟🌟🌟🌟 | ✅ |
 | **[TorchServe](https://github.com/pytorch/serve)** ⭐ 4k+ | PyTorch serving | 🌟🌟🌟🌟 | ✅ |
 | **[TensorFlow Serving](https://github.com/tensorflow/serving)** ⭐ 6k+ | TensorFlow models | 🌟🌟🌟🌟 | ✅ |
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
 
 #### 🎯 Quick Deployment Example
 
