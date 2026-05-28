@@ -358,6 +358,18 @@ class MyService:
   - 📊 Drift detection
   - 🚨 Alerting
 
+- **[traceAI](https://github.com/future-agi/traceAI)**
+  - 📡 OpenTelemetry-native tracing
+  - 🔌 50+ framework integrations
+  - 🤖 LLM and agent apps
+  - 🛰️ Production observability
+
+- **[Future AGI](https://github.com/future-agi/future-agi)**
+  - 🏗️ Self-hostable agent engineering platform
+  - 📊 Tracing, evals, guardrails, gateway
+  - 🚀 End-to-end coverage
+  - 🔓 Open-source
+
 </td>
 <td width="50%">
 
@@ -379,6 +391,12 @@ class MyService:
   - 🤖 LLM testing
   - 🔒 AI quality
   - 📊 Evaluation
+
+- **[ai-evaluation](https://github.com/future-agi/ai-evaluation)**
+  - 📊 50+ LLM eval metrics
+  - 🧑‍⚖️ LLM-as-Judge
+  - 🛡️ Guardrail scanners (jailbreak, PII, injection)
+  - 🔓 Open-source
 
 </td>
 </tr>
