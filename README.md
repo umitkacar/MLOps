@@ -301,6 +301,7 @@ run["metrics/acc"] = 0.95
 | **[KServe](https://github.com/kserve/kserve)** ⭐ 3.5k+ | Serverless ML | 🌟🌟🌟🌟🌟 | ✅ |
 | **[TorchServe](https://github.com/pytorch/serve)** ⭐ 4k+ | PyTorch serving | 🌟🌟🌟🌟 | ✅ |
 | **[TensorFlow Serving](https://github.com/tensorflow/serving)** ⭐ 6k+ | TensorFlow models | 🌟🌟🌟🌟 | ✅ |
+| **[TWZRD Agent Intel](https://intel.twzrd.xyz)** | Agent trust verification for inference endpoints | 🌟🌟🌟🌟 | ✅ |
 
 #### 🎯 Quick Deployment Example
 
