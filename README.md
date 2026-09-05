@@ -1454,6 +1454,7 @@ open htmlcov/index.html
 
 ### 📰 Blogs & Newsletters
 
+- 📧 [AI Weekly](https://aiweekly.co/) - Models, agents, research, and policy ranked from expert signals
 - 📝 [Eugene Yan's Blog](https://eugeneyan.com/) - MLOps insights
 - 📝 [MLOps Community Blog](https://mlops.community/blog/)
 - 📝 [Neptune.ai Blog](https://neptune.ai/blog) - Experiment tracking
